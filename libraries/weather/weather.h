@@ -1,3 +1,6 @@
+/*
+ * Author: Jakub Kisiel
+ */
 #ifndef WEATHER_H_
 #define WEATHER_H_
 
